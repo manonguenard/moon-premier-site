@@ -23,8 +23,8 @@ def accueil():
 
 # ---------------------------------------------------------------
 #  Ajoutez vos nouvelles routes ci-dessous 👇
-# ---------------------------------------------------------------
-@app.get("/presentation")
+# --------------------------------------------------------------
+    @app.get("/presentation")
 def presentation():
     return "Je m'appelle Manon et je suis étudiante en informatique."
 
