@@ -63,7 +63,7 @@
 
 2. Les `{{ prenom }}` sont-ils remplacés par le serveur ou par le navigateur ? Comment l'avez-vous vérifié ?
 
-   >  grâce au moteur de templates utilisé par Flask. On peut le vérifier en affichant le code source de la page dans le navigateur  
+   >  grâce au moteur de templates utilisé par Flask. On peut le vérifier en affichant le code source de la page dans le navigateur  (mon code ne marche pas )
 
 ---
 
