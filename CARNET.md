@@ -59,11 +59,11 @@
 
 1. Pourquoi est-ce une bonne idée de séparer le code Python et le HTML ? (Pensez à une équipe avec un développeur et un graphiste.)
 
-   > _Ma réponse :_ 
+   >car chacun a un rôle différent, l'un travail sur le programme en lui même tandis que lautre travaille sur la mise en forme de celui ci
 
 2. Les `{{ prenom }}` sont-ils remplacés par le serveur ou par le navigateur ? Comment l'avez-vous vérifié ?
 
-   > _Ma réponse :_ 
+   >  grâce au moteur de templates utilisé par Flask. On peut le vérifier en affichant le code source de la page dans le navigateur  
 
 ---
 
