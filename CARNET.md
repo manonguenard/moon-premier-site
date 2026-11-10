@@ -194,4 +194,4 @@
 
 En quelques phrases, expliquez à un ami ce qui se passe entre le moment où il tape une adresse dans son navigateur et celui où la page s'affiche :
 
-> _Ma réponse :_ 
+> Quand je tape une adresse dans mon navigateur, celui-ci envoie une requête au serveur du site pour demander la page. Le serveur reçoit la demande, traite les informations et renvoie une réponse contenant le contenu de la page, notamment le HTML, le CSS et le JavaScript. Le navigateur récupère ces fichiers, les interprète et les affiche à l'écran pour que je puisse consulter le site.
