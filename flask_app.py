@@ -24,9 +24,7 @@ def accueil():
 # ---------------------------------------------------------------
 #  Ajoutez vos nouvelles routes ci-dessous 👇
 # --------------------------------------------------------------
-@app.get("/presentation")
-def presentation():
-    return render_template("presentation.html", prenom="Manon", nom="GUENARD")
+
 @app.get("/")
 def accueil():
     return render_template("accueil.html")
