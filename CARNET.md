@@ -158,19 +158,19 @@
 
 1. Citez trois informations que le serveur connaît sur vous, sans que vous ayez rien rempli.
 
-   > _Ma réponse :_ 
+   >Le serveur connaît plusieurs informations sur moi sans que j'aie besoin de les remplir, comme mon adresse IP, le type de navigateur que j'utilise et la langue de mon navigateur
 
 2. À quoi peut servir l'en-tête `Accept-Language` pour un site comme Wikipédia ?
 
-   > _Ma réponse :_ 
+   > L'en-tête Accept-Language permet à un site comme Wikipédia de détecter la langue préférée du visiteur et de lui proposer automatiquement les pages dans cette langue
 
 3. Dans l'Access log, retrouvez une requête qui a reçu un code `404`. Quelle page était demandée ?
 
-   > _Ma réponse :_ 
+   >Dans l'Access log, la requête qui a reçu un code 404 correspond à une page qui n'a pas été trouvée, par exemple la favicon si c'est celle qui apparaît dans mon journal
 
 4. Après cet exercice, que pensez-vous de la notion de « navigation anonyme » ?
 
-   > _Ma réponse :_ 
+   > Après cet exercice, je pense que la navigation anonyme est difficile à garantir car les sites peuvent récupérer plusieurs informations sur les visiteurs, même sans qu'ils remplissent de formulaire.
 
 ---
 
