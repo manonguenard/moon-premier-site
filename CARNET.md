@@ -82,7 +82,7 @@
 
 3. Pourquoi faut-il parfois faire **Ctrl + F5** pour voir les changements de CSS ?
 
-   > _Ma réponse :_ 
+   > Il faut parfois faire Ctrl + F5 pour voir les changements de CSS car le navigateur garde parfois une ancienne version du fichier en mémoire cache et cette manipulation force le navigateur à recharger la page et à récupérer les dernières modifications du CSS
 
 ---
 
