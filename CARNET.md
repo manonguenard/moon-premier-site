@@ -142,15 +142,15 @@
 
 1. Quelle est la différence entre une erreur `4xx` et une erreur `5xx` ? Qui est « fautif » dans chaque cas ?
 
-   > _Ma réponse :_ 
+   > Une erreur 4xx signifie qu'il y a un problème dans la requête envoyée par le navigateur, par exemple une page qui n'existe pas avec une erreur 404. C'est généralement le client qui est responsable, tandis qu'une erreur 5xx signifie qu'il y a un problème du côté du serveur qui n'arrive pas à traiter correctement la requête
 
 2. Comment fonctionne une redirection ? Qui fait la deuxième requête : le serveur ou le navigateur ?
 
-   > _Ma réponse :_ 
+   >Une redirection fonctionne lorsque le serveur indique au navigateur qu'il doit se rendre vers une autre adresse. C'est le navigateur qui effectue alors une deuxième requête vers la nouvelle adresse 
 
 3. Donnez un exemple de situation où un vrai site utilise une redirection.
 
-   > _Ma réponse :_ 
+   >Un exemple de redirection est lorsqu'on se connecte à un site et qu'on est automatiquement redirigé vers la page d'accueil ou vers son espace personnel après avoir réussi la connexion
 
 ---
 
